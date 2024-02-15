@@ -5,10 +5,10 @@
 - 📊 Estudando R e Estatística
 
 <a href="https://github.com/gabrielainacio">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielainacio&show_icons=true&theme=synthwave" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielainacio&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/gabrielainacio">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielainacio&theme=synthwave&layout=compact" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielainacio&theme=synthwave&layout=compact" />
 </a>
 
 ## 
@@ -18,6 +18,4 @@
  	<a href = "mailto:gabrielainacio8491@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriela-in%C3%A1cio-844606248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-
-
-
+</div>
